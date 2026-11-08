@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade e Exclusão de Dados</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background: #fff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+        h1 {
+            color: #111;
+            border-bottom: 2px solid #eaeaea;
+            padding-bottom: 10px;
+            font-size: 28px;
+        }
+        h2 {
+            color: #2c3e50;
+            margin-top: 30px;
+            font-size: 20px;
+        }
+        p, li {
+            font-size: 16px;
+            color: #555;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .highlight {
+            background-color: #f0f4f8;
+            border-left: 4px solid #0066cc;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 0 4px 4px 0;
+        }
+        footer {
+            margin-top: 40px;
+            text-align: center;
+            font-size: 14px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Política de Privacidade e Termos de Uso</h1>
+    <p>Este aplicativo utiliza a API do Instagram Graph para fornecer suas funcionalidades integradas. Temos o compromisso de proteger a privacidade dos usuários que utilizam nossa integração.</p>
+
+    <h2>1. Coleta de Dados</h2>
+    <p>Coletamos apenas as informações públicas do perfil do usuário do Instagram e suas mídias (fotos, vídeos e legendas), estritamente conforme autorizado expressamente pelo usuário por meio do fluxo de login e consentimento da Meta.</p>
+
+    <h2>2. Uso das Informações</h2>
+    <p>Os dados coletados são utilizados exclusivamente para o funcionamento interno do aplicativo (como a exibição de mídias ou análise de dados solicitada pelo próprio usuário). Não compartilhamos, vendemos, alugamos ou utilizamos esses dados para fins publicitários ou qualquer outra finalidade externa.</p>
+
+    <h2>3. Retenção de Dados</h2>
+    <p>Os dados do usuário são mantidos apenas pelo tempo estritamente necessário para fornecer os serviços solicitados no aplicativo ou até que o usuário solicite a sua exclusão.</p>
+
+    <div class="highlight">
+        <h2>Instruções para Exclusão de Dados do Usuário (User Data Deletion)</h2>
+        <p>Se você deseja revogar o acesso do aplicativo e apagar os seus dados de nossos registros, siga o passo a passo abaixo obrigatório pela Meta:</p>
+        <ol>
+            <li>Acesse a sua conta do Instagram e vá em <strong>Configurações e Privacidade</strong>.</li>
+            <li>Navegue até a seção de <strong>Aplicativos e sites</strong>.</li>
+            <li>Localize o nome do nosso aplicativo na lista e clique em <strong>Remover</strong>.</li>
+            <li>Para garantir que todos os dados residuais ou persistentes sejam completamente eliminados dos nossos servidores internos, envie uma mensagem direta para o e-mail de suporte listado abaixo com o seu nome de usuário do Instagram.</li>
+        </ol>
+    </div>
+
+    <h2>4. Contato e Suporte</h2>
+    <p>Caso tenha dúvidas sobre esta política ou queira confirmar a exclusão dos seus dados, entre em contato através do e-mail:</p>
+    <p><strong>E-mail:</strong> [rafaelatvsan@gmail.com]</p>
+</div>
+
+<footer>
+    <p>&copy; 2026 Aplicativo de Integração Instagram. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
